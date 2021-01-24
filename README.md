@@ -18,3 +18,7 @@ Autocad Fusion 360
 
 # Preview
 ![checking git](photos/preview1.jpg "checking fit")
+![tape to magnet](photos/preview2.jpg "tape to magnet")
+![punch holes](photos/preview3.jpg "punch holes")
+![install magnet](photos/preview4.jpg "install magnet")
+![installed](photos/preview5.jpg "installed")
